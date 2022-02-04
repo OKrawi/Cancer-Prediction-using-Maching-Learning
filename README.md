@@ -1,1 +1,1 @@
-# Cancer-Prediction-using-Maching-Learning
+# Cancer Prediction using Maching Learning
